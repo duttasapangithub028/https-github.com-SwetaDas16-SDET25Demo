@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 public class DemoForGithub {
 @Test
 public void demo() {
-	System.out.println("For Commit Operation in Github");
+	System.out.println("For Commit Operation1 in Github");
+	
+	System.out.println("For Commit Operation2 in Github");
 }
 }
